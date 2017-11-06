@@ -1,2 +1,1 @@
-# r6db_esp
-Rainbow Six database - API R6DB
+This website is basically to show an small resume of profiles from discord channel and search specific players through R6DB API
